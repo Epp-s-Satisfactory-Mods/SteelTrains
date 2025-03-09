@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"SemVersion": "0.1.0",
+	"GameVersion": ">=383729",
+	"FriendlyName": "Steel Trains",
+	"Description": "Unlock trains when you unlock steel. Build your train network out of steel.",
+	"Category": "Modding",
+	"CreatedBy": "Epp",
+	"CreatedByURL": "",
+	"DocsURL": "https://ficsit.app/mod/SteelTrains",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/Epp-s-Satisfactory-Mods/SteelTrains/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.10.0"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.5.0"
+		}
+	]
+}

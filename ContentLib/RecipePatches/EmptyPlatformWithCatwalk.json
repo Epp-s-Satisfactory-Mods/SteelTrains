@@ -1,0 +1,15 @@
+//Game/FactoryGame/Buildable/Factory/Train/Station/Recipe_TrainPlatformEmpty_02.Recipe_TrainPlatformEmpty_02_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Empty Platform With Catwalk",
+    "Ingredients": [
+      {
+        "Item": "Desc_SteelPlate",
+        "Amount": 10
+      },
+      {
+        "Item": "Desc_Cement",
+        "Amount": 50
+      }
+    ]
+}
